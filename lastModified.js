@@ -1,9 +1,11 @@
-
-// elner
-
-
-
-
+/*
+JavaScript for Last modified
+Author: Lukas Elner
+E-mail: lukas@elner.cz
+Web: lukas.elner.cz
+Version: CZECH/translated
+Revision: 0.2
+*/
 var lMod = new Date(document.lastModified);
 var yrLMod = lMod.getFullYear();
 var dayLMod = ((lMod.getDate()<10) ? "" : "") + lMod.getDate();
