@@ -2,4 +2,4 @@
 JavaScript for Last modified
 
 Example
-https://codepen.io/lukaselner/pen/QWOmymZ
+https://codepen.io/lukaselner/pen/LYOdapr
