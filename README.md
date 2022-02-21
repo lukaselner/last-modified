@@ -1,2 +1,2 @@
-# last-modified
-lastModified
+# Last modified
+JavaScript for Last modified
