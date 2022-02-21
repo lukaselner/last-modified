@@ -3,7 +3,7 @@ JavaScript for Last modified
 Author: Lukas Elner
 E-mail: lukas@elner.cz
 Web: lukas.elner.cz
-Version: CZECH/translated
+Version: dd. mm. yyyy, hh:mm
 Revision: 0.2
 */
 var lMod = new Date(document.lastModified);
