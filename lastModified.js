@@ -15,7 +15,7 @@ function addZero(i) {
 }
 function getMonthName(month) {
 	var monthNames = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12'];
-	return monthNames[month - 1] || ''; // Pokud zadané číslo měsíce není platné, vrátí prázdný řetězec
+	return monthNames[month - 1] || '';
 }
 var yrLMod = lMod.getFullYear();
 var dayLMod = addZero(lMod.getDate());
