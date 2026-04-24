@@ -1,4 +1,4 @@
-# js-last-modified
+# last-modified
 
 A lightweight vanilla JavaScript snippet that displays the last modified date of an HTML page. Available in Czech and English versions.
 
