@@ -2,7 +2,7 @@
 JavaScript for Last Modified
 Author: Lukas Elner
 E-mail: lukas@elner.cz
-Web: lukas.elner.cz
+Web: lukaselner.cz
 Version: CZECH
 Revision: 1.0
 
