@@ -1,5 +1,5 @@
 /*
-JavaScript for Last Modified
+JS - Last Modified
 Author: Lukas Elner
 E-mail: lukas@elner.cz
 Web: lukaselner.cz
